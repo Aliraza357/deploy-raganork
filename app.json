@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "Ali_King_Official",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -51,17 +51,17 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Ali_King"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"Ali_King;Akmal;https://i.imgur.com/YchATyT.jpeg"
         },
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
@@ -71,7 +71,7 @@
         "BLOCK_CHAT": {
             "description": "Block bot in specific groups, enter jids here sepereated with commas",
             "required": false,
-            "value":""
+            "value":"agr apna bhi y robot lagwaa hai tu conatct kro wa.me//923244802908"
         },
         "REJECT_CALLS": {
             "description": "Auto reject calls, true/false",
